@@ -1,2 +1,5 @@
 spring:
-	name: Koushik
+  rabbitmq:
+    username: letterbox
+    password: l3tterb@x!
+    virtual-host: letterbox
