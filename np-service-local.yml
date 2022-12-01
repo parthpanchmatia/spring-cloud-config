@@ -1,0 +1,4 @@
+service:
+  name: np-service
+server:
+  port: 8200
